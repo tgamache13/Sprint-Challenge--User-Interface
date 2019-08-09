@@ -217,7 +217,7 @@ footer nav a {
     width: 800px;
     height: 153px;
     position: relative;
-    right: -400px;
+    /*right: -400px;*/
     margin-bottom: 40px;
     margin-top: 40px;
 
@@ -228,7 +228,7 @@ footer nav a {
     position: relative;
     width: 800px;
     
-    right: -100px;
+    /* right: -100px; */
     
 }
 .navigation a{
